@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![效果图](https://github.com/iostang/analysis_app/blob/master/flutter_ios.png)
-![效果图](https://github.com/iostang/analysis_app/blob/master/flutter_android.png)
+![效果图](https://github.com/iostang/analysis_app/blob/master/flutter_android.gif)
+![效果图](https://github.com/iostang/analysis_app/blob/master/flutter_ios.gif)
 
