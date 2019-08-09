@@ -1,0 +1,69 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "date": "2019-06-03",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 1234512345
+            }
+        },
+        {
+            "date": "2019-06-04",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 1223432432423
+            }
+        },
+        {
+            "date": "2019-06-05",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 3213213213
+            }
+        },
+        {
+            "date": "2019-06-06",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 32543645363
+            }
+        },
+        {
+            "date": "2019-06-07",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 522424
+            }
+        },
+        {
+            "date": "2019-06-08",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 141744
+            }
+        },
+        {
+            "date": "2019-06-09",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 12345,
+                "not_effect_order_num": 12345,
+                "amount": 435434
+            }
+        }
+    ]
+}

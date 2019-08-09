@@ -1,0 +1,48 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "name": "order_survey",
+            "title": "订单概况",
+            "index_list": [
+                {
+                    "name": "order_num",
+                    "title": "订单数量"
+                },
+                {
+                    "name": "room_night_count",
+                    "title": "间夜量"
+                },
+                {
+                    "name": "order_amount",
+                    "title": "订单金额"
+                }
+            ]
+        },
+        {
+            "name": "order_fail_reason",
+            "title": "无效订单原因分析",
+            "index_list": [
+                {
+                    "name": "cancel_reason_num",
+                    "title": "取消原因总量"
+                },
+                {
+                    "name": "cancel_order_list",
+                    "title": "取消订单列表"
+                }
+            ]
+        },
+        {
+            "name": "sale_channel",
+            "title": "销售渠道分析",
+            "index_list": [
+                {
+                    "name": "sell_channel",
+                    "title": "销售渠道"
+                }
+            ]
+        }
+    ]
+}

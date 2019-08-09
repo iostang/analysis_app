@@ -1,0 +1,12 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": {
+        "id": 123,
+        "display_name": "test1",
+        "cn": "test1",
+        "mail": "test1@it.local",
+        "description": "",
+        "session_id": "xxxxxxxxxxx"
+    }
+}

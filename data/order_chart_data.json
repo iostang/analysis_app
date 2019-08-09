@@ -1,0 +1,69 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "date": "2019-06-03",
+            "value": {
+                "room_night_count": 12345,
+                "effect_order_num": 2222222,
+                "not_effect_order_num": 12345,
+                "amount": 1234512345.1
+            }
+        },
+        {
+            "date": "2019-06-04",
+            "value": {
+                "room_night_count": 67990,
+                "effect_order_num": 12342225,
+                "not_effect_order_num": 222,
+                "amount": 1223432432423.1
+            }
+        },
+        {
+            "date": "2019-06-05",
+            "value": {
+                "room_night_count": 98765,
+                "effect_order_num": 3222222,
+                "not_effect_order_num": 32323,
+                "amount": 3213213213.1
+            }
+        },
+        {
+            "date": "2019-06-06",
+            "value": {
+                "room_night_count": 1254345,
+                "effect_order_num": 32424324,
+                "not_effect_order_num": 232,
+                "amount": 32543645363.1
+            }
+        },
+        {
+            "date": "2019-06-07",
+            "value": {
+                "room_night_count": 79768,
+                "effect_order_num": 122,
+                "not_effect_order_num": 5435435,
+                "amount": 522424.1
+            }
+        },
+        {
+            "date": "2019-06-08",
+            "value": {
+                "room_night_count": 333333,
+                "effect_order_num": 455566,
+                "not_effect_order_num": 77777,
+                "amount": 141744.1
+            }
+        },
+        {
+            "date": "2019-06-09",
+            "value": {
+                "room_night_count": 888888,
+                "effect_order_num": 766655,
+                "not_effect_order_num": 12333345,
+                "amount": 435434.1
+            }
+        }
+    ]
+}
