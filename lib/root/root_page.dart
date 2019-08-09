@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
-import 'package:tj_analysis/home/home_page.dart';
-import 'package:tj_analysis/localizations/localizations.dart';
-import 'package:tj_analysis/login/login_page.dart';
+import 'package:analysis_app/home/home_page.dart';
+import 'package:analysis_app/localizations/localizations.dart';
+import 'package:analysis_app/login/login_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tj_analysis/net/tj_net.dart';
+import 'package:analysis_app/net/tj_net.dart';
 
 class RootPage extends StatefulWidget {
   RootPage({Key key, this.title}) : super(key: key);

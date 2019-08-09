@@ -1,11 +1,11 @@
-import 'package:tj_analysis/home/detail_page.dart';
-import 'package:tj_analysis/home/home_page.dart';
+import 'package:analysis_app/home/detail_page.dart';
+import 'package:analysis_app/home/home_page.dart';
 
 import 'package:flutter/painting.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:tj_analysis/localizations/free_localizations.dart';
-import 'package:tj_analysis/tools/colors_helpers.dart';
+import 'package:analysis_app/localizations/free_localizations.dart';
+import 'package:analysis_app/tools/colors_helpers.dart';
 
 var rootHandler = Handler(
     handlerFunc: (BuildContext context, Map<String, List<String>> params) {

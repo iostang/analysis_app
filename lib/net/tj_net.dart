@@ -3,12 +3,12 @@ import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tj_analysis/model/detail_config_model.dart';
-import 'package:tj_analysis/model/home_page_model.dart';
-import 'package:tj_analysis/model/login_model.dart';
-import 'package:tj_analysis/model/order_chart_data.dart';
-import 'package:tj_analysis/model/order_reason.dart';
-import 'package:tj_analysis/model/sell_channel.dart';
+import 'package:analysis_app/model/detail_config_model.dart';
+import 'package:analysis_app/model/home_page_model.dart';
+import 'package:analysis_app/model/login_model.dart';
+import 'package:analysis_app/model/order_chart_data.dart';
+import 'package:analysis_app/model/order_reason.dart';
+import 'package:analysis_app/model/sell_channel.dart';
 
 import 'tj_http_tool.dart';
 

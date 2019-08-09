@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:pull_to_refresh/pull_to_refresh.dart';
 import 'package:flutter/foundation.dart';
 
-import 'package:tj_analysis/home/drawer_page.dart';
-import 'package:tj_analysis/localizations/localizations.dart';
-import 'package:tj_analysis/model/home_page_model.dart';
-import 'package:tj_analysis/net/tj_net.dart';
-import 'package:tj_analysis/routes/application.dart';
-import 'package:tj_analysis/routes/routes.dart';
+import 'package:analysis_app/home/drawer_page.dart';
+import 'package:analysis_app/localizations/localizations.dart';
+import 'package:analysis_app/model/home_page_model.dart';
+import 'package:analysis_app/net/tj_net.dart';
+import 'package:analysis_app/routes/application.dart';
+import 'package:analysis_app/routes/routes.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key, this.title, this.onTapDrawer}) : super(key: key);

@@ -1,11 +1,11 @@
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
-import 'package:tj_analysis/localizations/free_localizations.dart';
-import 'package:tj_analysis/localizations/localizations.dart';
-import 'package:tj_analysis/root/root_page.dart';
-import 'package:tj_analysis/routes/application.dart';
-import 'package:tj_analysis/routes/routes.dart';
-import 'package:tj_analysis/tools/config.dart';
+import 'package:analysis_app/localizations/free_localizations.dart';
+import 'package:analysis_app/localizations/localizations.dart';
+import 'package:analysis_app/root/root_page.dart';
+import 'package:analysis_app/routes/application.dart';
+import 'package:analysis_app/routes/routes.dart';
+import 'package:analysis_app/tools/config.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 
 

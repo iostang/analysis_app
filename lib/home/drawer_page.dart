@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tj_analysis/localizations/localizations.dart';
+import 'package:analysis_app/localizations/localizations.dart';
 
 class MenuPage extends StatefulWidget {
   final ValueChanged<bool> onTapMenu;

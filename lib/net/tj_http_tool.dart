@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tj_analysis/tools/crypto.dart';
+import 'package:analysis_app/tools/crypto.dart';
 import 'dart:convert';
 
 var dio = Dio(BaseOptions(

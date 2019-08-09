@@ -1,7 +1,7 @@
 import 'package:charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
-import 'package:tj_analysis/model/order_reason_model.dart';
-import 'package:tj_analysis/tools/toast.dart';
+import 'package:analysis_app/model/order_reason_model.dart';
+import 'package:analysis_app/tools/toast.dart';
 
 class BrokenChart extends StatelessWidget {
   final List<charts.Series> seriesList;

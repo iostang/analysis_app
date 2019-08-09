@@ -1,25 +1,25 @@
 import 'package:date_format/date_format.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tj_analysis/charts/broken_charts.dart';
-import 'package:tj_analysis/charts/histogram_chart.dart';
-import 'package:tj_analysis/charts/pie_chart.dart';
-import 'package:tj_analysis/charts/test/donut_auto_label_chart.dart';
+import 'package:analysis_app/charts/broken_charts.dart';
+import 'package:analysis_app/charts/histogram_chart.dart';
+import 'package:analysis_app/charts/pie_chart.dart';
+import 'package:analysis_app/charts/test/donut_auto_label_chart.dart';
 
 
-import 'package:tj_analysis/localizations/localizations.dart';
-import 'package:tj_analysis/model/detail_config_model.dart';
-import 'package:tj_analysis/model/order_chart_data.dart';
-import 'package:tj_analysis/model/order_reason.dart';
+import 'package:analysis_app/localizations/localizations.dart';
+import 'package:analysis_app/model/detail_config_model.dart';
+import 'package:analysis_app/model/order_chart_data.dart';
+import 'package:analysis_app/model/order_reason.dart';
 
-import 'package:tj_analysis/model/order_reason_model.dart';
+import 'package:analysis_app/model/order_reason_model.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
-import 'package:tj_analysis/model/sell_channel.dart';
+import 'package:analysis_app/model/sell_channel.dart';
 
 
-import 'package:tj_analysis/net/tj_net.dart';
-import 'package:tj_analysis/tools/config.dart';
-import 'package:tj_analysis/tools/hud.dart';
+import 'package:analysis_app/net/tj_net.dart';
+import 'package:analysis_app/tools/config.dart';
+import 'package:analysis_app/tools/hud.dart';
 
 enum DetailMenuType {
   order_survey, //订单概况

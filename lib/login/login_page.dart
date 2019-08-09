@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:tj_analysis/localizations/localizations.dart';
-import 'package:tj_analysis/net/tj_net.dart';
-import 'package:tj_analysis/tools/config.dart';
-import 'package:tj_analysis/tools/hud.dart';
-import 'package:tj_analysis/tools/toast.dart';
+import 'package:analysis_app/localizations/localizations.dart';
+import 'package:analysis_app/net/tj_net.dart';
+import 'package:analysis_app/tools/config.dart';
+import 'package:analysis_app/tools/hud.dart';
+import 'package:analysis_app/tools/toast.dart';
 
 class LoginPage extends StatefulWidget {
   final ValueChanged<bool> onTapLogin;
